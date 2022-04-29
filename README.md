@@ -16,7 +16,7 @@ Assignment #4: Pinball machine
 
 Assignment #5: Program using Generic
 
-Assignment #6 was cancelled due to start of COVID-19 pandemic.
+Assignment #6 was canceled due to start of COVID-19 pandemic.
 
 Assignment #7: Escape room simulation
 
